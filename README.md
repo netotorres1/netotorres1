@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Juviniano 
 
-- 🌱 Atualmente estou aprendendo React e Node
-- 📫 Você pode entrar em contato comigo pelo email: torresneto47@gmail.com
+- 🌱 Atualmente trabalho com React, Typescript, SASS, Styled-components
+- 📫 Você pode entrar em contato comigo pelo email: torresneto47@gmail.com e também estou no linkedin https://www.linkedin.com/feed/
 - ⚡ Tecnologia desde cedo sempre foi uma paixão
 <div align="center">
   <a href="https://github.com/netotorres1">
